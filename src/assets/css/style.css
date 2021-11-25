@@ -1,0 +1,16 @@
+html,
+body {
+    scroll-behavior: smooth;
+    background: #212529;
+}
+
+@media (min-width: 920px) {
+    .nav-link {
+        padding: 20px;
+        margin-left: 15px;
+    }
+
+    .navbar {
+        box-shadow: 0 0 6px black;
+    }
+}
